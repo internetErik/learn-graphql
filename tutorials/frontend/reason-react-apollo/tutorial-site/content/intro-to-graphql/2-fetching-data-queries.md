@@ -9,6 +9,7 @@ import YoutubeEmbed from "../../src/YoutubeEmbed.js";
 
 <a name="graphiql"></a>
 ## Try out GraphQL queries
+
 For this tutorial we've set up a GraphQL API for you. The most common
 way to browse a GraphQL API is to use GraphiQL. GraphiQL is a tool
 built by Facebook, (pronounced "graphical") that makes it easy to explore
